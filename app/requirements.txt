@@ -4,7 +4,7 @@ aiosqlite==0.13.0
 alembic==1.4.2
 amqp==2.6.0
 async-timeout==3.0.1
-asyncpg==0.20.1
+asyncpg==0.21.0
 atlastk==0.10.7
 attrs==19.3.0
 bcrypt==3.1.7
