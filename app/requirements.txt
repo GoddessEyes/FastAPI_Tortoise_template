@@ -52,7 +52,7 @@ packaging==20.4
 passlib==1.7.2
 pluggy==0.13.1
 premailer==3.7.0
-py==1.8.1
+py==1.10.0
 pycparser==2.20
 pydantic==1.5.1
 PyJWT==1.7.1
