@@ -24,7 +24,7 @@ email-validator==1.1.1
 emails==0.5.15
 fastapi==0.55.1
 fastapi-users==1.1.1
-flower==0.9.4
+flower==1.2.0
 future==0.18.2
 h11==0.9.0
 h2==3.2.0
